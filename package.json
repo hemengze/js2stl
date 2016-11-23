@@ -1,0 +1,22 @@
+{
+  "name": "js2stl",
+  "version": "0.1.0",
+  "description": "Threejs json convert to stl",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hemengze",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0",
+    "three": "^0.82.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hemengze/js2stl.git"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
