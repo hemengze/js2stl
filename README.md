@@ -26,7 +26,7 @@
   });
  ```
  
- # Binary文件
+# Binary文件
  本地或者远程的binary文件
  ```
   js2stl.binaryConvert('http://your_binary_path.js', function(err, buffer){
